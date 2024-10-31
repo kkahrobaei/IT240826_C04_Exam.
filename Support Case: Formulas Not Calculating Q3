@@ -1,0 +1,15 @@
+https://www.goskills.com/Excel/Resources/Excel-errors
+
+https://www.indeed.com/career-advice/career-development/excel-formula-errors
+
+https://www.myonlinetraininghub.com/10-common-excel-mistakes-to-avoid
+
+1. Incorrect Cell References: Using the wrong type of cell reference (relative vs. absolute) can lead to errors in calculations when formulas are copied.
+
+2. Not Using Data Validation: Failing to set up data validation can result in entering invalid data, which can skew results.
+
+3. Overlooking Hidden Rows/Columns: Hidden rows or columns can lead to missing or mistakes in your data.
+
+4. Ignoring Errors in Formulas: Not checking for formula errors (like #DIV/0! or #VALUE!) can lead to incorrect conclusions based on flawed data.
+
+5. Neglecting to Save Changes: Forgetting to save your work regularly can result in losing your work due to crashes or accidental closures.
