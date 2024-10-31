@@ -1,0 +1,10 @@
+https://answers.microsoft.com/en-us/msoffice/forum/all/why-does-excel-display-my-formula-in-the-cell/12a4fe8d-4b6c-4f3c-82be-9000489d94a0
+https://spreadsheeto.com/support/customer/excel-issues/formula-result-not-showing/
+
+1: Is a special setting enabled?
+
+2: Are the cells formatted as text before the formula is written?
+
+3: Is there a space before the "=" sign?
+
+4: Is the Show Formulas button in the Formuala Auditing group of the Formulas tab of the button highlighted?
